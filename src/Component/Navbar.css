@@ -1,0 +1,24 @@
+a{
+    color:rebeccapurple;
+    text-shadow: 2px 2px 3px royalblue;
+    text-decoration: 1px groove underline;
+    font-size: 25px;
+
+}
+.active{
+    font-weight: bold;
+    color: red;
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: mediumseagreen;
+}
+h3{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:deeppink
+}
+img{
+    height: 200px;
+    width: 150px;
+}
